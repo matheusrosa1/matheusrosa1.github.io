@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
+
+.foto-de-perfil {
+    margin: auto;
+
+}
+
+.descricao {
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
