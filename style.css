@@ -9,18 +9,23 @@ body {
 
 
 h1 {
-    text-align: center;
     margin: auto;
+}
+
+.meuNome {
+    padding: 10px;
+    background-color: rgb(37, 202, 37);
 }
 
 .foto-de-perfil {
     margin: auto;
-
+    position: absolute;
+    right: 400px;
+    border: 3px solid green;
 }
 
 .descricao {
-    text-align: center;
-    margin: auto;
+    top: 100px;
 }
 
 h2 {
